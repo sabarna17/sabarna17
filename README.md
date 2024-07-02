@@ -1,6 +1,5 @@
-## sabarna17 
-### BTP ☁️ | S4HANA | AI-Bots 🤖 | Integration 🌐 | Transformation-Adaptation | Side-by-Side
-Connect with me:
+## sabarna17 - Cloud ☁️ | SAP | AI-Bots 🤖 | Integration 🌐
+
 
 
 ![](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseSingleBadge/147402/1575) 
