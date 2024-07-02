@@ -1,6 +1,6 @@
 ## sabarna17 - | Cloud ☁️ | GenAI | SAP | AI-Bots 🤖 | Integration 🌐 |
 <picture >
-<img href="https://www.linkedin.com/in/sabarna-chatterjee-b942108b/" src= "https://github.com/sabarna17/sabarna17/assets/39834671/e5d88431-1f9b-4983-9704-60c826504c41">
+<img href="(https://www.linkedin.com/in/sabarna-chatterjee-b942108b/)" src= "https://github.com/sabarna17/sabarna17/assets/39834671/e5d88431-1f9b-4983-9704-60c826504c41">
 </picture>
   
 ![](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseSingleBadge/147402/1575) 
