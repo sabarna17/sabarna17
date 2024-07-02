@@ -1,9 +1,8 @@
 ## sabarna17 - | [LikendIN](https://www.linkedin.com/in/sabarna-chatterjee-b942108b/) | [X-Twitter](https://twitter.com/sap_sabarna) | [SAP Community](https://community.sap.com/t5/user/viewprofilepage/user-id/147402)
-|-----:|---------------|---------------|---------------|
-|S4HANA|Cloud☁️|GenAI💡|AI-Bots🤖|Integration🌐|
+|Cloud☁️ | GenAI-AI💡 | Bots🤖 | Integration🌐 | IoT⚙️ | 
+|---------------|---------------|---------------|---------------|---------------|
+|SAP BTP, Azure, GCP | Gemini, OpenAI, HANA PAL | Build Process Automations| CPI | RaspberryPI🍓, Arduino, NodeMCU |
 
-S4HANA  Cloud☁️  GenAI💡  AI-Bots🤖  Integration🌐  ⚙️IoT  RaspberryPI🍓
-  
 ![](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseSingleBadge/147402/1575) 
 
 ![](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/147402/1575/1551/1514/1517/909) ![image](https://github.com/sabarna17/sabarna17/assets/39834671/5b0cac31-0335-4794-a65c-abee1f86026b)  
