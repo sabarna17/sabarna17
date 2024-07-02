@@ -1,9 +1,10 @@
 ## Hi there 👋
 Connect with me:
+![](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseSingleBadge/147402/1575) 
 
-| ![image](https://github.com/sabarna17/sabarna17/assets/39834671/5b0cac31-0335-4794-a65c-abee1f86026b) | ![](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseSingleBadge/147402/1575) |
+![](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/147402/1575/1551/1514/1517/909) ![image](https://github.com/sabarna17/sabarna17/assets/39834671/5b0cac31-0335-4794-a65c-abee1f86026b)  
 
-![](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/147402/1575/1551/1514/1517/909)
+
 
 
 
