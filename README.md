@@ -1,7 +1,6 @@
 ## sabarna17 - | Cloud ☁️ | GenAI | SAP | AI-Bots 🤖 | Integration 🌐 |
-<picture>
-<img src="https://www.linkedin.com/in/sabarna-chatterjee-b942108b/">
-</picture>
+
+<img alt="Connect with me in LikenIN" src="https://www.linkedin.com/in/sabarna-chatterjee-b942108b/">
   
 ![](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseSingleBadge/147402/1575) 
 
