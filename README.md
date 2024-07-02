@@ -1,6 +1,5 @@
 ## sabarna17 - | [LikendIN](https://www.linkedin.com/in/sabarna-chatterjee-b942108b/) | [X-Twitter](https://twitter.com/sap_sabarna) | [SAP Community](https://community.sap.com/t5/user/viewprofilepage/user-id/147402)
-![image](https://github.com/sabarna17/sabarna17/assets/39834671/c65db1dd-fccf-45f7-a4c7-c227d4c655de)
- | Cloud☁️ | GenAI💡 | AI-Bots🤖 | Integration🌐 | ⚙️IoT | RaspberryPI🍓
+S4HANA | Cloud☁️ | GenAI💡 | AI-Bots🤖 | Integration🌐 | ⚙️IoT | RaspberryPI🍓
   
 ![](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseSingleBadge/147402/1575) 
 
