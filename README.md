@@ -1,4 +1,4 @@
-## sabarna17 - | [LikendIN](https://www.linkedin.com/in/sabarna-chatterjee-b942108b/) | [X-Twitter](https://twitter.com/sap_sabarna) | [SAP Community](https://community.sap.com/t5/user/viewprofilepage/user-id/147402) | [Medium](https://medium.com/@sabarna17) | [HUgging-face](https://huggingface.co/sabarna17)
+## sabarna17 - | [LikendIN](https://www.linkedin.com/in/sabarna-chatterjee-b942108b/) | [X-Twitter](https://twitter.com/sap_sabarna) | [SAP Community](https://community.sap.com/t5/user/viewprofilepage/user-id/147402) | [Medium](https://medium.com/@sabarna17) | [Hugging-face](https://huggingface.co/sabarna17)
 |Cloud☁️ | GenAI-AI💡 | Bots🤖 | Integration🌐 | IoT⚙️ | 
 |---------------|---------------|---------------|---------------|---------------|
 |SAP BTP, Azure, GCP | Gemini, OpenAI, HANA PAL | SAP Build | CPI | RPI🍓, Arduino, NodeMCU |
